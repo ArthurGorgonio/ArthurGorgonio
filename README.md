@@ -1,18 +1,17 @@
 # Hi, I'm Arthur, welcome to my profile!
 
 ### Nice to meet you!
-Arthur Gorgônio, is a backend entusiast that also studies about Machine Learning for his PhD, meanwhile plays as Quality Assurance Engineer building automatized integrations tests for the banking solutions at Topaz.
+Arthur Gorgônio, is a backend entusiast that also studies about Machine Learning for his PhD, meanwhile plays as Data Scientist Engineer building AI models at Unico.
 
 - Currently focused on development with a strong emphasis on Python. I am also exploring machine learning, particularly concentrating on semi-supervised learning techniques👨💻 
 
 - Always researching and improving my knowledge! 🔭
  
-- Gratuated (2018) in Information Systems 🎓, In 2021, I obtained my Master's degree in Systems and Computing
+- Gratuated (2018) in Information Systems 🎓, I obtained my MSc. and PhD. degrees in Systems and Computing in 2021 and 2025, respectively.
 
 - 🗺️ I live in Caicó, _Rio Grande do Norte_, Brazil.
-- 🌱 I’m currently learning about tests (unit and integration), CI/CD skills, docker, aws flow, and, of course, python.
-- 💻 Working from home for Topaz.
-- 📚 I am currently pursuing my PhD degree.
+- 🌱 I’m currently learning about machine learning, CI/CD skills, docker, aws flow, and, of course, python.
+- 💻 Working from home at Unico.
 - 📫 How to contact me: [📧 gorgonioarthur@gmail.com](mailto:gorgonioarthur@gmail.com)
 ---
 
